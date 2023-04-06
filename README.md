@@ -6,8 +6,8 @@
 ## About
 * 👋 Hi, I’m Chidike Henry 
 * 😎 I’m a MERN fullstack engineer
-* 💻 This is an interactive blog web app made with made with NextJS, ReactJS, TailwindCSS, GraphQL and hygraph CMS.
-* 🌍 Website:  https://hengine-blog-1.vercel.app/
+* 💻 This is an interactive social media webapp where users will signup/login, create post, view, edit, delete and comments on pictures.
+* 🌍 Website:  
 * 💞️ I’m looking to collaborate on JS projects 
 * 📫 How to reach me chidike.henry@gmail.com
 
