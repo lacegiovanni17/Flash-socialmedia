@@ -1,13 +1,14 @@
 # FLASH-Social media web app
 
-### [Live Site]()
+### [Live Site](https://flash9.netlify.app/)
+
 
 
 ## About
 * 👋 Hi, I’m Chidike Henry 
 * 😎 I’m a MERN fullstack engineer
 * 💻 This is an interactive social media webapp where users will signup/login, create post, view, edit, delete and comments on pictures.
-* 🌍 Website:  
+* 🌍 Website:  https://flash9.netlify.app/
 * 💞️ I’m looking to collaborate on JS projects 
 * 📫 How to reach me chidike.henry@gmail.com
 
